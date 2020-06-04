@@ -1,0 +1,23 @@
+C:\Users\Anthony\source\repos\VréMemory\VréMemory\obj\Debug\VréMemory.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\VréMemory\VréMemory\obj\Debug\VréMemory.Properties.Resources.resources
+C:\Users\Anthony\source\repos\VréMemory\VréMemory\obj\Debug\VréMemory.csproj.GenerateResource.cache
+C:\Users\Anthony\source\repos\VréMemory\VréMemory\obj\Debug\VréMemory.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\VréMemory\VréMemory\obj\Debug\VréMemory.FormMemory.resources
+C:\Users\Anthony\source\repos\VréMemory\VréMemory\bin\Debug\VréMemory.exe.config
+C:\Users\Anthony\source\repos\VréMemory\VréMemory\bin\Debug\VréMemory.exe
+C:\Users\Anthony\source\repos\VréMemory\VréMemory\bin\Debug\VréMemory.pdb
+C:\Users\Anthony\source\repos\VréMemory\VréMemory\bin\Debug\dllLoto.dll
+C:\Users\Anthony\source\repos\VréMemory\VréMemory\obj\Debug\VréMemory.csproj.CopyComplete
+C:\Users\Anthony\source\repos\VréMemory\VréMemory\obj\Debug\VréMemory.exe
+C:\Users\Anthony\source\repos\VréMemory\VréMemory\obj\Debug\VréMemory.pdb
+C:\Users\vince\Desktop\Polytech INFO 3A\ISI\VréMemory\VréMemory\bin\Debug\VréMemory.exe.config
+C:\Users\vince\Desktop\Polytech INFO 3A\ISI\VréMemory\VréMemory\bin\Debug\VréMemory.exe
+C:\Users\vince\Desktop\Polytech INFO 3A\ISI\VréMemory\VréMemory\bin\Debug\VréMemory.pdb
+C:\Users\vince\Desktop\Polytech INFO 3A\ISI\VréMemory\VréMemory\obj\Debug\VréMemory.csprojAssemblyReference.cache
+C:\Users\vince\Desktop\Polytech INFO 3A\ISI\VréMemory\VréMemory\obj\Debug\VréMemory.FormMemory.resources
+C:\Users\vince\Desktop\Polytech INFO 3A\ISI\VréMemory\VréMemory\obj\Debug\VréMemory.Properties.Resources.resources
+C:\Users\vince\Desktop\Polytech INFO 3A\ISI\VréMemory\VréMemory\obj\Debug\VréMemory.csproj.GenerateResource.cache
+C:\Users\vince\Desktop\Polytech INFO 3A\ISI\VréMemory\VréMemory\obj\Debug\VréMemory.csproj.CoreCompileInputs.cache
+C:\Users\vince\Desktop\Polytech INFO 3A\ISI\VréMemory\VréMemory\obj\Debug\VréMemory.csproj.CopyComplete
+C:\Users\vince\Desktop\Polytech INFO 3A\ISI\VréMemory\VréMemory\obj\Debug\VréMemory.exe
+C:\Users\vince\Desktop\Polytech INFO 3A\ISI\VréMemory\VréMemory\obj\Debug\VréMemory.pdb
